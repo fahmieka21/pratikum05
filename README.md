@@ -127,7 +127,7 @@ int main()
 ![img](https://github.com/fahmieka21/pratikum05/blob/master/latihan2.4.png)
 
 
-
+Terimakasih Jangan Lupa Di Follow :D
 
 
 
